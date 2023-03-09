@@ -1,0 +1,21 @@
+.item-container {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.item-container > img {
+  border-radius: 50px;
+  object-fit: cover;
+}
+.employee-details {
+  margin-left: 15px;
+}
+
+.employee-details > p {
+  margin-top: 5px;
+}
+
+.employee-details > h2 {
+  margin-bottom: 5px;
+}
